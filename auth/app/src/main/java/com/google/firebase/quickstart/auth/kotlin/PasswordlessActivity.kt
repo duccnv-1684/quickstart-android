@@ -107,7 +107,7 @@ class PasswordlessActivity : BaseActivity(), View.OnClickListener {
                     packageName,
                     false, null/* minimum app version */)/* install if not available? */
             handleCodeInApp = true
-            url = "https://kotlin.auth.example.com/emailSignInLink"
+            url = "https://shopeetest-938aa.firebaseapp.com/emailSignInLink"
         }
 
         hideKeyboard(binding.fieldEmail)

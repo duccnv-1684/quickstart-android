@@ -94,7 +94,7 @@
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <data
-                    android:host="your-project-id.firebaseapp.com"
+                    android:host="shopeetest-938aa.firebaseapp.com"
                     android:scheme="https" />
 
                 <category android:name="android.intent.category.BROWSABLE" />
